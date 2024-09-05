@@ -1,0 +1,21 @@
+# Executables and binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+*.test
+arsif
+
+# Compiled output
+*.out
+
+# Temporary files
+tmp
+
+# OS generated files
+.DS_Store
+
+# Editor directories and files
+.vscode/
+.idea/
